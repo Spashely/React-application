@@ -15,12 +15,12 @@ A dynamic e-commerce web application developed as part of my HND in Web Developm
 - JavaScript
 - HTML
 - CSS
-##What I Learned
+## What I Learned
 - Creating reusable React components
 - Managing application state
 - Passing data with props
 - Rendering lists dynamically
 - Organising React project structure
 
-##Live Demo
+## Live Demo
 
