@@ -1,5 +1,5 @@
-React Application
-Overview
+# React Application
+## Overview
 
 A React application developed as part of my coursework to demonstrate modern front-end development concepts. The project focuses on reusable components, state management, and dynamic rendering.
 
