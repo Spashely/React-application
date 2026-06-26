@@ -11,16 +11,16 @@ A dynamic e-commerce web application developed as part of my HND in Web Developm
 - Responsive interface
 - Clean and reusable code structure
 ## Technologies
--React
--JavaScript
--HTML
--CSS
+- React
+- JavaScript
+- HTML
+- CSS
 ##What I Learned
--Creating reusable React components
--Managing application state
--Passing data with props
--Rendering lists dynamically
--Organising React project structure
+- Creating reusable React components
+- Managing application state
+- Passing data with props
+- Rendering lists dynamically
+- Organising React project structure
 
 ##Live Demo
 
